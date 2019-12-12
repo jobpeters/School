@@ -10,3 +10,7 @@
 	path = intelligent-systems
 	url = https://github.com/jobpeters/intelligent-systems.git
 	branch = master
+[submodule "motion-and-vision"]
+	path = motion-and-vision
+	url = https://github.com/jobpeters/motion-and-vision.git
+	branch = master
