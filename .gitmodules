@@ -14,3 +14,7 @@
 	path = motion-and-vision
 	url = https://github.com/jobpeters/motion-and-vision.git
 	branch = master
+[submodule "human-machine-interface"]
+	path = human-machine-interface
+	url = https://github.com/jobpeters/human-machine-interface.git
+	branch = master
