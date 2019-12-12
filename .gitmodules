@@ -6,3 +6,7 @@
 	path = research-design
 	url = https://github.com/jobpeters/research-design.git
 	branch = master
+[submodule "intelligent-systems"]
+	path = intelligent-systems
+	url = https://github.com/jobpeters/intelligent-systems.git
+	branch = master
