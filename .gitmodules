@@ -1,0 +1,47 @@
+[submodule "research-design"]
+	path = research-design
+	url = https://github.com/jobpeters/research-design
+  
+[submodule "RTOS"]
+	path = RTOS
+	url = https://github.com/jobpeters/RTOS
+  
+[submodule "motion-and-vision"]
+	path = motion-and-vision
+	url = https://github.com/jobpeters/motion-and-vision
+  
+[submodule "motion"]
+	path = motion-and-vision/motion
+	url = https://github.com/jobpeters/motionn
+  
+[submodule "vision"]
+	path = motion-and-vision/vision
+	url = https://github.com/jobpeters/vision
+  
+[submodule "intelligent-systems"]
+	path = intelligent-systems
+	url = https://github.com/jobpeters/intelligent-systems
+  
+[submodule "expert-systems"]
+	path = intelligent-systems/expert-systems
+	url = https://github.com/jobpeters/expert-systems
+  
+[submodule "fuzzy-logic"]
+	path = intelligent-systems/fuzzy-logic
+	url = https://github.com/jobpeters/fuzzy-logic
+  
+[submodule "human-machine-interface"]
+	path = human-machine-interface
+	url = https://github.com/jobpeters/human-machine-interface
+  
+[submodule "hmi-speech"]
+	path = human-machine-interface/speech
+	url = https://github.com/jobpeters/hmi-speech
+  
+[submodule "hmi-vision"]
+	path = human-machine-interface/vision
+	url = https://github.com/jobpeters/hmi-vision
+  
+  
+  
+  
