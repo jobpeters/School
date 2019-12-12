@@ -1,38 +1,47 @@
 [submodule "research-design"]
 	path = research-design
-	url = https://github.com/jobpeters/research-design
+	url = https://github.com/jobpeters/research-design.git
+    branch = master
 
 [submodule "RTOS"]
 	path = RTOS
-	url = https://github.com/jobpeters/RTOS
+	url = https://github.com/jobpeters/RTOS.git
+    branch = master
 
 [submodule "motion-and-vision"]
 	path = motion-and-vision
-	url = https://github.com/jobpeters/motion-and-vision
+	url = https://github.com/jobpeters/motion-and-vision.git
+    branch = master
 
 [submodule "ma-vision"]
 	path = motion-and-vision/vision
-	url = https://github.com/jobpeters/ma-vision
+	url = https://github.com/jobpeters/ma-vision.git
+    branch = master
 
 [submodule "intelligent-systems"]
 	path = intelligent-systems
-	url = https://github.com/jobpeters/intelligent-systems
+	url = https://github.com/jobpeters/intelligent-systems.git
+    branch = master
 
 [submodule "expert-systems"]
 	path = intelligent-systems/expert-systems
-	url = https://github.com/jobpeters/expert-systems
+	url = https://github.com/jobpeters/expert-systems.git
+    branch = master
 
 [submodule "fuzzy-logic"]
 	path = intelligent-systems/fuzzy-logic
-	url = https://github.com/jobpeters/fuzzy-logic
+	url = https://github.com/jobpeters/fuzzy-logic.git
+    branch = master
 
 [submodule "human-machine-interface"]
 	path = human-machine-interface
-	url = https://github.com/jobpeters/human-machine-interface
+	url = https://github.com/jobpeters/human-machine-interface.git
+    branch = master
 
 [submodule "hmi-speech"]
 	path = human-machine-interface/speech
-	url = https://github.com/jobpeters/hmi-speech
+	url = https://github.com/jobpeters/hmi-speech.git
+    branch = master
 
 [submodule "hmi-vision"]
 	path = human-machine-interface/vision
