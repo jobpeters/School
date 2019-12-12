@@ -1,0 +1,4 @@
+[submodule "RTOS"]
+	path = RTOS
+	url = https://github.com/jobpeters/RTOS.git
+	branch = master
