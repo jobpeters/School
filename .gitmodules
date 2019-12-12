@@ -2,3 +2,7 @@
 	path = RTOS
 	url = https://github.com/jobpeters/RTOS.git
 	branch = master
+[submodule "research-design"]
+	path = research-design
+	url = https://github.com/jobpeters/research-design.git
+	branch = master
