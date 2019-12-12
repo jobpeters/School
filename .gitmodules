@@ -11,7 +11,6 @@
 [submodule "motion-and-vision"]
 	path = motion-and-vision
 	url = https://github.com/jobpeters/motion-and-vision.git
-    branch = master
 
 [submodule "intelligent-systems"]
 	path = intelligent-systems
